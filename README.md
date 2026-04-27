@@ -1,5 +1,6 @@
 # Quantum-ML-IDS-CICIDS2017
-Quantum Machine Learning per Network Intrusion Detection: benchmark VQC/QSVC su CICIDS2017  con analisi comparativa di performance, scalabilità e costo computazionale rispetto a baseline classici.
+Quantum Machine Learning for Network Intrusion Detection: Benchmarking VQC and QSVC on CICIDS2017
+This analysis evaluates the performance, scalability, and computational cost of Variational Quantum Classifiers (VQC) and Quantum Support Vector Classifiers (QSVC) against classical baselines using the CICIDS2017 dataset.
 
 ## Objective
 
